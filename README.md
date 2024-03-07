@@ -1,0 +1,8 @@
+- Learn how to build great REST APIs for Blog App using Spring Boot, Spring Security, JWT, Spring Data JPA (Hibernate), MySQL database
+- Learn how to build CRUD REST APIs
+- Learn how to build REST APIs for Pagination and Sorting
+- Learn how to build REST APIs for Login/Signin and Signup
+- Learn Spring boot REST API exception handling
+- Learn Spring boot REST API validation
+- Learn how to use Spring security in the Spring boot project
+- Learn how to secure REST APIs (role-based security)
